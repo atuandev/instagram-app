@@ -3,7 +3,6 @@ import { Link } from 'expo-router'
 import { StatusBar } from 'expo-status-bar'
 
 import ScreenWrapper from '@/components/ScreenWrapper'
-import { wp } from '@/helpers/common'
 
 const index = () => {
   return (
